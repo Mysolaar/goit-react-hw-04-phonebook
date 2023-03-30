@@ -1,0 +1,6 @@
+.app__container {
+    margin: 15px auto;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
