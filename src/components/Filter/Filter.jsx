@@ -10,6 +10,7 @@ export default function Filter({ value, onChange }) {
                 type="text"
                 value={value}
                 onChange={onChange}
+                title="type serched name or surname"
             />
         </label>
     );
